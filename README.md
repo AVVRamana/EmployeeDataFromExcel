@@ -1,5 +1,9 @@
 # EmployeeDataFromExcel
 
+The Application is developed as a standalone java application.
+Any one can import this as a maven project and once downloaded maven install will install all the required dependencies
+Run the application as a SpringBoot application and it will print the output in console.
+
 ## Problem statement
 
 •	Input: An Excel file containing employee data with columns such as Employee ID, Name, Department, Date of Joining, and Salary.
